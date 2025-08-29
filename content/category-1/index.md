@@ -1,3 +1,3 @@
 ---
-title: Salt vs Freshwater
+title: Saltwater vs Freshwater
 ---
