@@ -1,3 +1,3 @@
 ---
-title: Category 2
+title: Types of Reels
 ---

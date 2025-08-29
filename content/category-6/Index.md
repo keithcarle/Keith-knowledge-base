@@ -1,3 +1,3 @@
 ---
-title: Category 6
+title: Fishing spots
 ---
