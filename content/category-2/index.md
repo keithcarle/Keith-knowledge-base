@@ -1,3 +1,3 @@
 ---
-title: category 2
+title: Category 2
 ---
