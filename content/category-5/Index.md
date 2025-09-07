@@ -1,3 +1,3 @@
 ---
-title: Knots
+title: Lures/Bait Types
 ---

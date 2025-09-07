@@ -6,7 +6,7 @@ title: Fishing with Keith Carle- A Reel Exciting Knowledge Base
 ## Main Categories
 * [[category-1/index|Saltwater vs Freshwater]]
 * [[category-2/index|Types of Reels]]
-*  [[category-3/index|Live Bait vs Lures]]
+*  [[category-3/index|Time of Fishing]]
 - [[category-4/index|Topwater vs Bottom]]
--  [[category-5/index|Knots]]
+-  [[category-5/index|Lures/Bait Types]]
 - [[category-6/index|Fishing Spots]]
