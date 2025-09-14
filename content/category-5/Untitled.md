@@ -1,3 +1,3 @@
 ---
-title: Lures vs Live Bait
+title: Bait Type by Water Type
 ---
