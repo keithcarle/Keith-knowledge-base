@@ -1,3 +1,3 @@
 ---
-title: Lures/Bait Types
+title: Lures vs Live Bait
 ---

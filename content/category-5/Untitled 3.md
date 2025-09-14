@@ -1,3 +1,3 @@
 ---
-title: Lures/Bait Types
+title: Scents for Lures
 ---
