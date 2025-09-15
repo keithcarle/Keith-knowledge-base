@@ -1,3 +1,3 @@
 ---
-title: Soft Plastics vs Hard
+title: Lure Colors
 ---
