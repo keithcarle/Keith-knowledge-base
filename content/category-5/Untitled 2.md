@@ -2,6 +2,7 @@
 title: Hard vs Soft Artificials
 ---
 ![300](https://cdn.shopify.com/s/files/1/0064/7721/7844/files/two_main_artificial_categories_1_1024x1024.jpg?v=1637653448) 
+Curtesy of MosterBass.com
 # What Type of Plastic Lure
 If you have chosen [[Untitled 1|artificial lures over live bait]], then you will want to look into the two different varieties of lures you will find, soft plastics and hard plastic. Soft plastics refers to lures that are rubbery in order for them to be flexible and flesh-like. Hard plastics are rigid and and typically mimic prey that swim with a side to side action such as small fish.
 ## Hard Plastics
