@@ -1,5 +1,5 @@
 ---
-title: Bait Type by Water Type
+title: Prey Type by Water Type
 ---
 # **what type of water?**
 
