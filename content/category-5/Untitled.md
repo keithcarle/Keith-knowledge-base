@@ -17,8 +17,7 @@ title: Prey Type by Water Type
 - Freshwater Shrimp
 - Flies
 
-![[https://www.pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/fishing/basics/gear/tmf_basic_freshwater_baits.pdf]]
-
+[![More info on freshwater prey]](https://www.pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/fishing/basics/gear/tmf_basic_freshwater_baits.pdf)
 ### Saltwater Prey
 - Saltwater Shrimp
 - Bait Fish
