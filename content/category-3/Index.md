@@ -11,6 +11,7 @@ The time can definitely impact how full your ice chest might be after your fishi
 Temperature plays a major role on how active fish might be. Unfortunately, fish are picky and do not like the water too hot or too cold. As mentioned above, fish are cold-blooded, meaning that they rely on the waters temperature in order to maintain their own temperature. When the water is too hot, fish typically swim deeper to find cooler water. In comparison, when it is cold, fish can swim to shallow water and rock structures to warm up. Along with this, the water temperature is heated up as the day goes on and the sun continues to shine down on the water. So when the temperature is cold, fishing during the day or early evening can result in warmer water and more fish activity.
 
 ![[Pasted image 20250923225234.jpg]]
+
 Courtesy of Luro Fishing
 ## Weather
 When the weather sharply changes fish eating habits can change. When large storms, cold fronts, etc. are headed towards fish, they can feel the change in the barometric pressure. This can cause fish to eat a large amount to store up energy to front the storm. Along with this, once a storm passes, fish can go back into a feeding frenzy to refill their energy after not eating during the storm. Not only is the time of day important to think about, but when to go fishing in comparison to weather and storms is also important.
