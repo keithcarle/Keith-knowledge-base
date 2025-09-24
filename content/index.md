@@ -5,7 +5,7 @@ title: Fishing with Keith Carle- A Reel Exciting Knowledge Base
 
 ![[Pasted image 20250923143132.jpg|500]]
 
-Curtsey of Paramount Destinations
+Courtesy of Paramount Destinations
 ## Main Categories
 
 * [[category-1/index|Saltwater vs Freshwater]]

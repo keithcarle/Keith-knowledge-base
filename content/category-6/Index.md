@@ -2,7 +2,7 @@
 title: Fishing spots
 ---
 ![[Pasted image 20250923154206.jpg|600]]
-Curtesy of SaltStrong
+Courtesy of SaltStrong
 
 # What makes a good fishing spots
 

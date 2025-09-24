@@ -7,4 +7,4 @@ Yes, fish can smell and taste the water to find prey. There are many scents that
 
 
 ![300](https://assets.wired2fish.com/uploads/2024/08/scentcover.webp) 
-Curtesy of Wired2Fish
+Courtesy of Wired2Fish
