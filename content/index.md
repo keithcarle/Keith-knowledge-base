@@ -8,10 +8,10 @@ title: Fishing with Keith Carle- A Reel Exciting Knowledge Base
 Courtesy of Paramount Destinations
 ## Main Categories
 
-* [[category-1/index|Saltwater vs Freshwater]]
-* [[category-2/index|Types of Reels]]
-* [[category-3/index|Time of Fishing]]
-* [[category-4/index|Topwater vs Bottom]]
-- [[category-5/index|Lures/Bait Types]]
-- [[category-6/index|Fishing Spots]]
+* [[content/Saltwater vs Freshwater/index|Saltwater vs Freshwater]]
+* [[content/Types of Reels/index|Types of Reels]]
+* [[content/Time of Fishing/index|Time of Fishing]]
+* [[content/Topwater vs Underwater/index|Topwater vs Bottom]]
+- [[content/Lures Bait Types/index|Lures/Bait Types]]
+- [[content/Fishing Spots/index|Fishing Spots]]
 
