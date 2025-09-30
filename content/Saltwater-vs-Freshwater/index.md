@@ -5,7 +5,7 @@ Courtesy of iOutdoors
 ![[Pasted image 20250923144410.jpg|500]]
 
 # Water is Water, Right?
-When it comes to fishing, saltwater and freshwater are a completely different game. The environments, [[Untitled|bait]], and fish are drastically different. Saltwater and Freshwater have different [[content/Fishing Spots/index|fishing spots]] and gear requirements. To some up pretty much everything is different when it comes to the two.
+When it comes to fishing, saltwater and freshwater are a completely different game. The environments, [[Untitled|bait]], and fish are drastically different. Saltwater and Freshwater have different [[content/Fishing-Spots/index|fishing spots]] and gear requirements. To some up pretty much everything is different when it comes to the two.
 
 
 ## Saltwater 
