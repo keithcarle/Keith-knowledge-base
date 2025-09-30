@@ -18,7 +18,8 @@ Courtesy of RodSeek
 - Freshwater Shrimp
 - Flies
 
-[![More info on freshwater prey]](https://www.pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/fishing/basics/gear/tmf_basic_freshwater_baits.pdf)
+![[tmf_basic_freshwater_baits.pdf#height=300]]
+
 ### Saltwater Prey
 - Saltwater Shrimp
 - Bait Fish
